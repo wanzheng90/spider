@@ -5,11 +5,28 @@
  * Date: 2018/12/25
  * Time: 16:13
  */
+if (isset($argv[1]) && $argv[1] == 'rename') reExtName();
 require './vendor/autoload.php';
 require './vendor/lib/Spider.php';
 include 'E:/www/global';
 
+
 use Symfony\Component\DomCrawler\Crawler;
+
+function reExtName() {
+    $dir = './crawFiles/dict';
+    $od = dir($dir);
+    while ($file = readdir($od->handle)) {
+        if ($file == '.' || $file == '..') continue;
+        $cmd = 'rename '. $file . ' '. $file . '.html';
+        @exec($cmd);
+    }
+    die;
+}
+
+
+reExtName();
+
 
 $baseUrl = 'https://hh.flexui.win/thread0806.php?fid=22';
 $pagePath = './crawFiles/';
@@ -27,7 +44,7 @@ $spider->setUnCheckSsl()
         'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.67 Safari/537.36',
     ]);
 
-for ($i = 1, $cnt = 20; $i <= $cnt; $i ++) {
+for ($i = 99, $cnt = 100; $i <= $cnt; $i ++) {
     if (is_file($pagePath. 'dict/'. $i)) { // 解析过的跳过
         continue;
     }

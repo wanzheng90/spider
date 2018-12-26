@@ -1,0 +1,1 @@
+php ../../PageCraw.php rename > log.txt

@@ -1,0 +1,8 @@
+
+Warning: dir(./crawFiles/dict,./crawFiles/dict): 系统找不到指定的路径。 (code: 3) in E:\www\spider\PageCraw.php on line 18
+
+Warning: dir(./crawFiles/dict): failed to open dir: No such file or directory in E:\www\spider\PageCraw.php on line 18
+
+Notice: Trying to get property of non-object in E:\www\spider\PageCraw.php on line 19
+
+Warning: readdir() expects parameter 1 to be resource, null given in E:\www\spider\PageCraw.php on line 19
