@@ -28,9 +28,11 @@ $spider->setUnCheckSsl()
     ]);
 
 for ($i = 1, $cnt = 20; $i <= $cnt; $i ++) {
-    if ($i == 2) die;
+    if (is_file($pagePath. 'dict/'. $i)) { // 解析过的跳过
+        continue;
+    }
     $url = $baseUrl . '&page='. $i;
-//    echo $url . "\n";
+    #echo $url . "\n";
     $htmlPath = '';
     if (!is_file($pagePath . $i . '/F')) {
         $html = $spider->post($url);
@@ -38,6 +40,7 @@ for ($i = 1, $cnt = 20; $i <= $cnt; $i ++) {
         if (!is_dir($pagePath . $i)) {
             mkdir($pagePath. $i, 0777);
         }
+
         file_put_contents($pagePath . $i . '/F', $m[0]);
     }
     $htmlPath = $pagePath . $i . '/F';
@@ -65,28 +68,32 @@ for ($i = 1, $cnt = 20; $i <= $cnt; $i ++) {
         if (!empty($data)) {
             $htmlPath = $htmlStr = '';
             $crawler = null;
+            $dictStr = '';
+            $dictStr = '<!DOCTYPE html><head><meta charset="UTF-8"><title>dict list</title></head>';
+            $dictStr .= '<div class="content">';
             foreach ($data as $key => $row) {
                 $itemIndex = $key + 1;
                 if (!is_file($pagePath . $i . '/S'. $itemIndex)) {
                     $html = $spider->post($row['href']);
-                    file_put_contents($pagePath . $i .'/S'. $itemIndex, $html);
+                    preg_match("/<body>(.*?)<\/body>/s", $html, $m);
+                    file_put_contents($pagePath . $i .'/S'. $itemIndex, $m[0]);
                 }
                 $htmlPath = $pagePath . $i . '/S'. $itemIndex;
-                echo $htmlPath . "\n";
                 $htmlStr = file_get_contents($htmlPath);
                 $data = [];
                 $crawler = new Crawler($htmlStr);
                 $sourceTitle = $crawler->filterXPath('//h4')->text();
-                $source = $crawler->filterXPath('//div[contains(@class,"tpc_content")]/a[2]')->attr('onclick');
-                $source = explode('src=', $source);
-                $source = trim($source[1], '\'');
-                echo $sourceTitle . " === " . $source . "\n";
+                $sourceLink = $crawler->filterXPath('//div[contains(@class,"tpc_content")]/a[2]')->attr('onclick');
+                $sourceLink = explode('src=', $sourceLink);
+                $sourceLink = trim($sourceLink[1], '\'');
+                $dictStr .= '<a href="'. $sourceLink .'">' . $sourceTitle . '</a><br>';
             }
+            file_put_contents($pagePath. 'dict/'. $i, $dictStr, FILE_APPEND);
         }
     } catch (\Exception $e) {
 
     }
-
+    echo "sleep three seconds please wait...\n";
     sleep(3);
 }
 

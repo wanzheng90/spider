@@ -1,0 +1,2436 @@
+<body>
+
+<div id="header">
+<div class="banner" style="padding-left:5px;"><a href="../../../"><FONT SIZE="7" COLOR="white"><B>草榴社區</B></FONT></a></div>
+<div class="h guide" colspan="2">&raquo;
+
+	<!--mb-->您尚未　<a href="login.php">登錄</a> &nbsp;<a href="register.php"><b>註冊</b></a><!--mbend-->
+
+	| <a href="search.php">搜索</a> | <a style="cursor:pointer;" id="td_hack" onClick="click_open('menu_hack','td_hack');" onMouseOver="mouseover_open('menu_hack','td_hack');">社區服務</a>
+
+	| <a href="hack.php?H_name=bank">银行</a>
+
+	| <a href="hack.php?H_name=invite">邀请注册</a>
+
+	| <a href="faq.php">幫助</a>
+
+</div>
+<div id="showmenu" style="z-index:100;display:none;"></div>
+<div id="menu_hack" class="menu" style="display:none;"><table width="120" cellspacing="1" cellpadding="5">
+	<tr><th class="h">社區服務</th></tr>
+
+</table></div>
+
+<div id="blank" style="height:10px; clear:both"></div>
+</div>
+<div id="main">
+
+<style>
+h3 a:visited{color:#676767}
+</style>
+<div class="t3" style="margin:8px auto"><table width="100%" cellspacing="0" cellpadding="0" align="center">
+	<tr><td>.:. <a href="index.php">草榴社區</a> &raquo; <a href="thread0806.php?fid=22">在綫成人影院</a> (<a href="rss.php?fid=22" target="_blank" title="RSS訂閱本版面最新帖子">RSS</a>)</td></tr>
+</table></div>
+
+<!--ads begin-->
+
+<!--ads end-->
+
+<div class="t"><table cellspacing="0" cellpadding="0" align="center">
+	<tr><td class="h"><b>版塊公告</b></td>
+	</tr>
+	<tr></tr>
+	<tr class="tr2"><td style="border-bottom:0"></td></tr>
+	<tbody id="cate_thread" style="">
+	<tr class="tr1">
+		<th class="t_one"> 在綫成人影院發帖注意事項&nbsp;<span class="smalltxt">(Barton: 2010-04-03 21:04)</span> <br /><br />如何發視頻, 以及版區注意事項, 請參考置頂版規!<br>遇到違規內容, 或視頻無法播放等問題, 歡迎PM&lt;<span style="color:blue">avjap</span>&gt;進行反映!
+		<div align="right"><a href="notice.php?fid=22#44">更多公告..</a></div></th>
+	</tr>
+</table></div>
+
+<table width="100%" align="center" cellspacing="0" cellpadding="0">
+	<tr><td align="left" valign="middle"><div class="pages"><a href="thread0806.php?fid=22&search=&page=1">＜</a><a href="thread0806.php?fid=22&search=&page=12">上一頁</a><a href="thread0806.php?fid=22&search=&page=10">10</a><a href="thread0806.php?fid=22&search=&page=11">11</a><a href="thread0806.php?fid=22&search=&page=12">12</a><a><U>13</U></a><a href="thread0806.php?fid=22&search=&page=14">14</a><a href="thread0806.php?fid=22&search=&page=15">15</a><a href="thread0806.php?fid=22&search=&page=16">16</a><a class='w70'><input type="text" style="width:50px;" value="13/396" onfocus="this.value='';" onblur="this.value='13/396'" onkeydown="javascript: if(event.keyCode==13){ location='thread0806.php?fid=22&search=&page='+this.value;return false;}"></a><a href="thread0806.php?fid=22&search=&page=14">下一頁</a><a href="thread0806.php?fid=22&search=&page=396" id="last">＞</a></div></td><td style="text-align:right"><a href="post.php?fid=22"> 發布主題</a>
+
+	<a href="post.php?fid=22&special=1">投票</a>
+</td>
+	</tr>
+</table>
+<div class="t" style="margin:3px auto"><table cellspacing="0" cellpadding="0" width="100%" id="ajaxtable">
+	
+	<tr><th class="h" colspan="5" style="width:100%"><a class="fr a2 fn" href="thread0806.php?fid=22">所有主題</a> <a class="fr a2 fn" href="thread0806.php?fid=22&search=today">今日主題</a> <a class="fr a2 fn" href="thread0806.php?fid=22&search=digest">精華主題</a>
+
+		<a class="fr a2 fn" href="thread0806.php?fid=22&type=1">亞洲無碼</a>
+
+		<a class="fr a2 fn" href="thread0806.php?fid=22&type=2">亞洲有碼</a>
+
+		<a class="fr a2 fn" href="thread0806.php?fid=22&type=3">歐美無碼</a>
+
+		<a class="fr a2 fn" href="thread0806.php?fid=22&type=4">動漫無碼</a>
+
+		<a class="fr a2 fn" href="thread0806.php?fid=22&type=5">動漫有碼</a>
+
+		<a class="fr a2 fn" href="thread0806.php?fid=22&type=6">其他電影</a>
+
+		<a href="thread0806.php?fid=22">在綫成人影院</a><span>　版主:
+
+		&nbsp;<a href=profile.php?action=show&username=Barton>Barton</a> <a href=profile.php?action=show&username=avjap>avjap</a> <a href=profile.php?action=show&username=valen>valen</a> <a href=profile.php?action=show&username=brent>brent</a> 
+
+		</span></th>
+	</tr>
+	<tbody style="table-layout:fixed;"><tr></tr>
+	<tr class="tr2 tac">
+	<td>狀態</td>
+	<td style="width:62%">文章</td>
+	<td style="width:10%">作者</td>
+	<td style="width:6%">回復</td>
+	<td style="width:17%">最後發表</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td><a href="htm_data/22/1812/3381274.html" target="_blank">
+
+.::
+
+
+	</a></td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	[亞洲無碼]
+
+	<h3><a href="htm_data/22/1812/3381274.html" target="_blank" id="">[高清在线影院]:普通话对白健身翘臀大屌猛男大战人瘦波大的师范美眉720P完整版&lt;撸管推荐&gt;[14:58]</a></h3>  
+
+	
+
+	</td>
+	<td><a href="show.php?uid=456682" class="bl">沐嫣</a><div class="f12">2018-12-22</div></td>
+	<td>1</td>
+	<td><a href="read.php?tid=3381274&page=e&fpage=13#a" class="f10"> 2018-12-22 15:26 </a><br />by: 啪啪小虫</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td><a href="htm_data/22/1812/3381273.html" target="_blank">
+
+.::
+
+
+	</a></td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	[亞洲無碼]
+
+	<h3><a href="htm_data/22/1812/3381273.html" target="_blank" id="">[热播榜]||精选：極品大胸美模惜萍酒店私拍第2彈《其余作品点进入》高清無水印 对白精彩[27:11]</a></h3>  
+
+	
+
+	</td>
+	<td><a href="show.php?uid=460089" class="bl">RudYe</a><div class="f12">2018-12-22</div></td>
+	<td>1</td>
+	<td><a href="read.php?tid=3381273&page=e&fpage=13#a" class="f10"> 2018-12-22 20:49 </a><br />by: ss227</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td><a href="htm_data/22/1812/3381272.html" target="_blank">
+
+.::
+
+
+	</a></td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	[亞洲無碼]
+
+	<h3><a href="htm_data/22/1812/3381272.html" target="_blank" id="">[热播榜]||精选：91大黄鸭-青花瓷旗袍肉丝模特美女 高清无码露脸&lt;撸管推荐&gt;[21:19]</a></h3>  
+
+	
+
+	</td>
+	<td><a href="show.php?uid=460089" class="bl">RudYe</a><div class="f12">2018-12-22</div></td>
+	<td>1</td>
+	<td><a href="read.php?tid=3381272&page=e&fpage=13#a" class="f10"> 2018-12-22 20:51 </a><br />by: ss227</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td><a href="htm_data/22/1812/3381271.html" target="_blank">
+
+.::
+
+
+	</a></td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	[亞洲無碼]
+
+	<h3><a href="htm_data/22/1812/3381271.html" target="_blank" id="">【只传||精品】:土豪幹爹內射99年大壹幹女兒含含,嫩茓宛如童B__其余视频进站搜[06:56]</a></h3>  
+
+	
+
+	</td>
+	<td><a href="show.php?uid=461211" class="bl">小天儿</a><div class="f12">2018-12-22</div></td>
+	<td>0</td>
+	<td><a href="read.php?tid=3381271&page=e&fpage=13#a" class="f10"> 2018-12-22 14:36 </a><br />by: 小天儿</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td><a href="htm_data/22/1812/3381238.html" target="_blank">
+
+.::
+
+
+	</a></td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	[亞洲無碼]
+
+	<h3><a href="htm_data/22/1812/3381238.html" target="_blank" id="">风吟鸟唱艺校清纯大三美女为入行被摄影带酒店玩3P双屌前插后捅接连爆射[07:57]</a></h3>  
+
+	
+
+	</td>
+	<td><a href="show.php?uid=383904" class="bl">肯德基外卖</a><div class="f12">2018-12-22</div></td>
+	<td>0</td>
+	<td><a href="read.php?tid=3381238&page=e&fpage=13#a" class="f10"> 2018-12-22 13:40 </a><br />by: 肯德基外卖</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td><a href="htm_data/22/1812/3381201.html" target="_blank">
+
+.::
+
+
+	</a></td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	[亞洲無碼]
+
+	<h3><a href="htm_data/22/1812/3381201.html" target="_blank" id="">【只传|精品】長的挺漂亮的東北豹紋大妹子紫薇秀,按摩棒快速抽插,噴出好多水[40:34]</a></h3>  
+
+	
+
+	</td>
+	<td><a href="show.php?uid=461211" class="bl">小天儿</a><div class="f12">2018-12-22</div></td>
+	<td>1</td>
+	<td><a href="read.php?tid=3381201&page=e&fpage=13#a" class="f10"> 2018-12-22 12:57 </a><br />by: 守夜人司令</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td><a href="htm_data/22/1812/3381198.html" target="_blank">
+
+.::
+
+
+	</a></td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	[亞洲無碼]
+
+	<h3><a href="htm_data/22/1812/3381198.html" target="_blank" id="">鸡巴哥情趣酒店约炮170CM旗袍肤白美骚妇下面毛多性欲强[22:02]</a></h3>  
+
+	
+
+	</td>
+	<td><a href="show.php?uid=383904" class="bl">肯德基外卖</a><div class="f12">2018-12-22</div></td>
+	<td>0</td>
+	<td><a href="read.php?tid=3381198&page=e&fpage=13#a" class="f10"> 2018-12-22 12:39 </a><br />by: 肯德基外卖</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td><a href="htm_data/22/1812/3381196.html" target="_blank">
+
+.::
+
+
+	</a></td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	[亞洲無碼]
+
+	<h3><a href="htm_data/22/1812/3381196.html" target="_blank" id="">【只传|精品】混血大眼小仙女美人出浴很喜欢走菊花走完吃JJ内射 b都快塞满_其余视频进站搜[19:51]</a></h3>  
+
+	
+
+	</td>
+	<td><a href="show.php?uid=461211" class="bl">小天儿</a><div class="f12">2018-12-22</div></td>
+	<td>3</td>
+	<td><a href="read.php?tid=3381196&page=e&fpage=13#a" class="f10"> 2018-12-22 20:52 </a><br />by: ss227</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td><a href="htm_data/22/1812/3381195.html" target="_blank">
+
+.::
+
+
+	</a></td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	[亞洲無碼]
+
+	<h3><a href="htm_data/22/1812/3381195.html" target="_blank" id="">调教喜欢后入的女友 家里玩得不够刺激户外野战视图曝光[08:23]</a></h3>  
+
+	
+
+	</td>
+	<td><a href="show.php?uid=383904" class="bl">肯德基外卖</a><div class="f12">2018-12-22</div></td>
+	<td>0</td>
+	<td><a href="read.php?tid=3381195&page=e&fpage=13#a" class="f10"> 2018-12-22 12:37 </a><br />by: 肯德基外卖</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td><a href="htm_data/22/1812/3381194.html" target="_blank">
+
+.::
+
+
+	</a></td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	[亞洲無碼]
+
+	<h3><a href="htm_data/22/1812/3381194.html" target="_blank" id="">【只传|精品】前某高级会所头牌“鸡”嫌累不干了回老家搞直播赚钱这一下火了_其他视频进站搜[16:47]</a></h3>  
+
+	
+
+	</td>
+	<td><a href="show.php?uid=461211" class="bl">小天儿</a><div class="f12">2018-12-22</div></td>
+	<td>1</td>
+	<td><a href="read.php?tid=3381194&page=e&fpage=13#a" class="f10"> 2018-12-22 20:54 </a><br />by: ss227</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td><a href="htm_data/22/1812/3381193.html" target="_blank">
+
+.::
+
+
+	</a></td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	[亞洲無碼]
+
+	<h3><a href="htm_data/22/1812/3381193.html" target="_blank" id="">[高清在线影院]:珠海某高级会所小姐也太不专业居然干着还玩微信 对白精彩__更多精彩点&quot;进站[21:59]</a></h3>  
+
+	
+
+	</td>
+	<td><a href="show.php?uid=456682" class="bl">沐嫣</a><div class="f12">2018-12-22</div></td>
+	<td>0</td>
+	<td><a href="read.php?tid=3381193&page=e&fpage=13#a" class="f10"> 2018-12-22 12:36 </a><br />by: 沐嫣</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td><a href="htm_data/22/1812/3381192.html" target="_blank">
+
+.::
+
+
+	</a></td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	[亞洲無碼]
+
+	<h3><a href="htm_data/22/1812/3381192.html" target="_blank" id="">[高清在线影院]:酒店约炮单位熟女会计梅姐，最后被插的语无伦次 高清无水印[19:50]</a></h3>  
+
+	
+
+	</td>
+	<td><a href="show.php?uid=456682" class="bl">沐嫣</a><div class="f12">2018-12-22</div></td>
+	<td>1</td>
+	<td><a href="read.php?tid=3381192&page=e&fpage=13#a" class="f10"> 2018-12-22 14:20 </a><br />by: 飞车贼</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td><a href="htm_data/22/1812/3381191.html" target="_blank">
+
+.::
+
+
+	</a></td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	[亞洲無碼]
+
+	<h3><a href="htm_data/22/1812/3381191.html" target="_blank" id="">[热播榜]||精选：女神娜依靈兒《其余作品点进入》演繹被雨淋濕辦公跳艷舞勾引主人對白精彩[23:10]</a></h3>  
+
+	
+
+	</td>
+	<td><a href="show.php?uid=460089" class="bl">RudYe</a><div class="f12">2018-12-22</div></td>
+	<td>1</td>
+	<td><a href="read.php?tid=3381191&page=e&fpage=13#a" class="f10"> 2018-12-22 20:55 </a><br />by: ss227</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td><a href="htm_data/22/1812/3381190.html" target="_blank">
+
+.::
+
+
+	</a></td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	[亞洲無碼]
+
+	<h3><a href="htm_data/22/1812/3381190.html" target="_blank" id="">[热播榜]||精选：网红瞳孔情趣装白色高跟鞋诱惑脱光扣逼很是诱惑不要错过&lt;必看&gt;[06:41]</a></h3>  
+
+	
+
+	</td>
+	<td><a href="show.php?uid=460089" class="bl">RudYe</a><div class="f12">2018-12-22</div></td>
+	<td>1</td>
+	<td><a href="read.php?tid=3381190&page=e&fpage=13#a" class="f10"> 2018-12-22 14:12 </a><br />by: 美人吸英雄</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td><a href="htm_data/22/1812/3381189.html" target="_blank">
+
+.::
+
+
+	</a></td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	[亞洲無碼]
+
+	<h3><a href="htm_data/22/1812/3381189.html" target="_blank" id="">【只传|精品】新人98K哥-勾搭夜店DJ美少女,帶回酒店無套爆艹饅頭茓__其余视频进站搜[19:58]</a></h3>  
+
+	
+
+	</td>
+	<td><a href="show.php?uid=348234" class="bl">DBK</a><div class="f12">2018-12-22</div></td>
+	<td>2</td>
+	<td><a href="read.php?tid=3381189&page=e&fpage=13#a" class="f10"> 2018-12-22 14:40 </a><br />by: 美人吸英雄</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td><a href="htm_data/22/1812/3381188.html" target="_blank">
+
+.::
+
+
+	</a></td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	[亞洲無碼]
+
+	<h3><a href="htm_data/22/1812/3381188.html" target="_blank" id="">【只传|精品】江苏苏州长发高颜值学院女神穿超短裙 说“爸爸我要这粉嫩小穴流好多水”[10:39]</a></h3>  
+
+	
+
+	</td>
+	<td><a href="show.php?uid=348234" class="bl">DBK</a><div class="f12">2018-12-22</div></td>
+	<td>2</td>
+	<td><a href="read.php?tid=3381188&page=e&fpage=13#a" class="f10"> 2018-12-22 20:56 </a><br />by: ss227</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td><a href="htm_data/22/1812/3381187.html" target="_blank">
+
+.::
+
+
+	</a></td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	[亞洲無碼]
+
+	<h3><a href="htm_data/22/1812/3381187.html" target="_blank" id="">[高清在线影院]:白日宣淫 大白天车震极品爆乳粉木耳女神 173长腿 逼紧很听话 爆操内射 推荐__更多精彩点&quot;进站[14:05]</a></h3>  
+
+	
+
+	</td>
+	<td><a href="show.php?uid=456682" class="bl">沐嫣</a><div class="f12">2018-12-22</div></td>
+	<td>1</td>
+	<td><a href="read.php?tid=3381187&page=e&fpage=13#a" class="f10"> 2018-12-22 15:35 </a><br />by: 美人吸英雄</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td><a href="htm_data/22/1812/3381186.html" target="_blank">
+
+.::
+
+
+	</a></td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	[亞洲無碼]
+
+	<h3><a href="htm_data/22/1812/3381186.html" target="_blank" id="">[高清在线影院]:棚户区站街女暗拍洗脚准备开草门被踹开隔壁一对完事的要过来观摩妹子被吓坏了[06:16]</a></h3>  
+
+	
+
+	</td>
+	<td><a href="show.php?uid=456682" class="bl">沐嫣</a><div class="f12">2018-12-22</div></td>
+	<td>0</td>
+	<td><a href="read.php?tid=3381186&page=e&fpage=13#a" class="f10"> 2018-12-22 12:34 </a><br />by: 沐嫣</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td><a href="htm_data/22/1812/3381185.html" target="_blank">
+
+.::
+
+
+	</a></td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	[亞洲無碼]
+
+	<h3><a href="htm_data/22/1812/3381185.html" target="_blank" id="">[热播榜]||精选：精品劇情演繹《其余作品点进入》空虛富姐勾引外賣小哥穿著黑絲 精彩对白[32:15]</a></h3>  
+
+	
+
+	</td>
+	<td><a href="show.php?uid=460089" class="bl">RudYe</a><div class="f12">2018-12-22</div></td>
+	<td>0</td>
+	<td><a href="read.php?tid=3381185&page=e&fpage=13#a" class="f10"> 2018-12-22 12:34 </a><br />by: RudYe</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td><a href="htm_data/22/1812/3381184.html" target="_blank">
+
+.::
+
+
+	</a></td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	[亞洲無碼]
+
+	<h3><a href="htm_data/22/1812/3381184.html" target="_blank" id="">[热播榜]||精选：美女少婦深夜穿著情趣黑絲一多自慰自拍 对白淫荡 完整版&lt;视觉享受&gt;[55:12]</a></h3>  
+
+	
+
+	</td>
+	<td><a href="show.php?uid=460089" class="bl">RudYe</a><div class="f12">2018-12-22</div></td>
+	<td>0</td>
+	<td><a href="read.php?tid=3381184&page=e&fpage=13#a" class="f10"> 2018-12-22 12:34 </a><br />by: RudYe</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td><a href="htm_data/22/1812/3381183.html" target="_blank">
+
+.::
+
+
+	</a></td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	[亞洲無碼]
+
+	<h3><a href="htm_data/22/1812/3381183.html" target="_blank" id="">【精品分享】为国争光无套大战极品俄罗斯女神[14:33]</a></h3>  
+
+	
+
+	</td>
+	<td><a href="show.php?uid=465928" class="bl">素颜浅笑</a><div class="f12">2018-12-22</div></td>
+	<td>0</td>
+	<td><a href="read.php?tid=3381183&page=e&fpage=13#a" class="f10"> 2018-12-22 12:33 </a><br />by: 素颜浅笑</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td><a href="htm_data/22/1812/3381182.html" target="_blank">
+
+.::
+
+
+	</a></td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	[亞洲無碼]
+
+	<h3><a href="htm_data/22/1812/3381182.html" target="_blank" id="">【精品分享】无套内射极品淫荡娇妻[14:07]</a></h3>  
+
+	
+
+	</td>
+	<td><a href="show.php?uid=465928" class="bl">素颜浅笑</a><div class="f12">2018-12-22</div></td>
+	<td>1</td>
+	<td><a href="read.php?tid=3381182&page=e&fpage=13#a" class="f10"> 2018-12-24 14:19 </a><br />by: leedtwo</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td><a href="htm_data/22/1812/3381181.html" target="_blank">
+
+.::
+
+
+	</a></td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	[亞洲無碼]
+
+	<h3><a href="htm_data/22/1812/3381181.html" target="_blank" id="">【精品分享】广州大四妹子粤语对白露脸约炮[24:29]</a></h3>  
+
+	
+
+	</td>
+	<td><a href="show.php?uid=470186" class="bl">Aeljinh</a><div class="f12">2018-12-22</div></td>
+	<td>0</td>
+	<td><a href="read.php?tid=3381181&page=e&fpage=13#a" class="f10"> 2018-12-22 12:33 </a><br />by: Aeljinh</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td><a href="htm_data/22/1812/3381180.html" target="_blank">
+
+.::
+
+
+	</a></td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	[亞洲無碼]
+
+	<h3><a href="htm_data/22/1812/3381180.html" target="_blank" id="">【精品分享】操北京露脸骚逼，一边打电话一边口交[14:55]</a></h3>  
+
+	
+
+	</td>
+	<td><a href="show.php?uid=470186" class="bl">Aeljinh</a><div class="f12">2018-12-22</div></td>
+	<td>1</td>
+	<td><a href="read.php?tid=3381180&page=e&fpage=13#a" class="f10"> 2018-12-22 16:01 </a><br />by: 美人吸英雄</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td><a href="htm_data/22/1812/3381179.html" target="_blank">
+
+.::
+
+
+	</a></td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	[亞洲無碼]
+
+	<h3><a href="htm_data/22/1812/3381179.html" target="_blank" id="">【精品分享】3P丝袜连体袜肛塞死库水大合集[37:20]</a></h3>  
+
+	
+
+	</td>
+	<td><a href="show.php?uid=470165" class="bl">Goddard</a><div class="f12">2018-12-22</div></td>
+	<td>0</td>
+	<td><a href="read.php?tid=3381179&page=e&fpage=13#a" class="f10"> 2018-12-22 12:32 </a><br />by: Goddard</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td><a href="htm_data/22/1812/3381178.html" target="_blank">
+
+.::
+
+
+	</a></td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	[亞洲無碼]
+
+	<h3><a href="htm_data/22/1812/3381178.html" target="_blank" id="">【精品分享】老婆带着闺蜜伺候男朋友[25:11]</a></h3>  
+
+	
+
+	</td>
+	<td><a href="show.php?uid=470165" class="bl">Goddard</a><div class="f12">2018-12-22</div></td>
+	<td>2</td>
+	<td><a href="read.php?tid=3381178&page=e&fpage=13#a" class="f10"> 2018-12-22 16:29 </a><br />by: 美人吸英雄</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td><a href="htm_data/22/1812/3381177.html" target="_blank">
+
+.::
+
+
+	</a></td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	[亞洲無碼]
+
+	<h3><a href="htm_data/22/1812/3381177.html" target="_blank" id="">【精品分享】大屁股少妇露脸先口后操[11:46]</a></h3>  
+
+	
+
+	</td>
+	<td><a href="show.php?uid=440174" class="bl">星空联盟</a><div class="f12">2018-12-22</div></td>
+	<td>0</td>
+	<td><a href="read.php?tid=3381177&page=e&fpage=13#a" class="f10"> 2018-12-22 12:31 </a><br />by: 星空联盟</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td><a href="htm_data/22/1812/3381176.html" target="_blank">
+
+.::
+
+
+	</a></td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	[亞洲無碼]
+
+	<h3><a href="htm_data/22/1812/3381176.html" target="_blank" id="">【精品分享】跟女友爱爱自拍[11:31]</a></h3>  
+
+	
+
+	</td>
+	<td><a href="show.php?uid=440174" class="bl">星空联盟</a><div class="f12">2018-12-22</div></td>
+	<td>1</td>
+	<td><a href="read.php?tid=3381176&page=e&fpage=13#a" class="f10"> 2018-12-22 16:52 </a><br />by: 美人吸英雄</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td><a href="htm_data/22/1812/3381173.html" target="_blank">
+
+.::
+
+
+	</a></td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	[亞洲無碼]
+
+	<h3><a href="htm_data/22/1812/3381173.html" target="_blank" id="">【精品分享】爆艹极品紫罗兰美女少妇[10:17]</a></h3>  
+
+	
+
+	</td>
+	<td><a href="show.php?uid=458976" class="bl">中原小野狼</a><div class="f12">2018-12-22</div></td>
+	<td>0</td>
+	<td><a href="read.php?tid=3381173&page=e&fpage=13#a" class="f10"> 2018-12-22 12:31 </a><br />by: 中原小野狼</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td><a href="htm_data/22/1812/3381172.html" target="_blank">
+
+.::
+
+
+	</a></td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	[亞洲無碼]
+
+	<h3><a href="htm_data/22/1812/3381172.html" target="_blank" id="">【精品分享】在会员家中做丝袜足交[20:57]</a></h3>  
+
+	
+
+	</td>
+	<td><a href="show.php?uid=458976" class="bl">中原小野狼</a><div class="f12">2018-12-22</div></td>
+	<td>0</td>
+	<td><a href="read.php?tid=3381172&page=e&fpage=13#a" class="f10"> 2018-12-22 12:31 </a><br />by: 中原小野狼</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td><a href="htm_data/22/1812/3381171.html" target="_blank">
+
+.::
+
+
+	</a></td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	[亞洲無碼]
+
+	<h3><a href="htm_data/22/1812/3381171.html" target="_blank" id="">【精品分享】午休办公室里享受财务姐姐的口活[15:09]</a></h3>  
+
+	
+
+	</td>
+	<td><a href="show.php?uid=425200" class="bl">jlgdzhao</a><div class="f12">2018-12-22</div></td>
+	<td>0</td>
+	<td><a href="read.php?tid=3381171&page=e&fpage=13#a" class="f10"> 2018-12-22 12:30 </a><br />by: jlgdzhao</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td><a href="htm_data/22/1812/3381170.html" target="_blank">
+
+.::
+
+
+	</a></td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	[亞洲無碼]
+
+	<h3><a href="htm_data/22/1812/3381170.html" target="_blank" id="">【精品分享】海小m被抱起来操[12:33]</a></h3>  
+
+	
+
+	</td>
+	<td><a href="show.php?uid=425200" class="bl">jlgdzhao</a><div class="f12">2018-12-22</div></td>
+	<td>0</td>
+	<td><a href="read.php?tid=3381170&page=e&fpage=13#a" class="f10"> 2018-12-22 12:30 </a><br />by: jlgdzhao</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td><a href="htm_data/22/1812/3381168.html" target="_blank">
+
+.::
+
+
+	</a></td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	[亞洲無碼]
+
+	<h3><a href="htm_data/22/1812/3381168.html" target="_blank" id="">【精品分享】再操宜昌风骚小嫂子[10:42]</a></h3>  
+
+	
+
+	</td>
+	<td><a href="show.php?uid=404900" class="bl">素因</a><div class="f12">2018-12-22</div></td>
+	<td>1</td>
+	<td><a href="read.php?tid=3381168&page=e&fpage=13#a" class="f10"> 2018-12-22 12:56 </a><br />by: 唯爵爷</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td><a href="htm_data/22/1812/3381167.html" target="_blank">
+
+.::
+
+
+	</a></td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	[亞洲無碼]
+
+	<h3><a href="htm_data/22/1812/3381167.html" target="_blank" id="">【精品分享】大奶丝袜学生妹之老婆与小三剧情大片[12:45]</a></h3>  
+
+	
+
+	</td>
+	<td><a href="show.php?uid=404900" class="bl">素因</a><div class="f12">2018-12-22</div></td>
+	<td>1</td>
+	<td><a href="read.php?tid=3381167&page=e&fpage=13#a" class="f10"> 2018-12-22 17:17 </a><br />by: 美人吸英雄</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td><a href="htm_data/22/1812/3381157.html" target="_blank">
+
+.::
+
+
+	</a></td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	[亞洲無碼]
+
+	<h3><a href="htm_data/22/1812/3381157.html" target="_blank" id="">做过几年空姐已为人母的大胸美少妇和包养继父站在窗边啪啪下面逼毛修整的挺漂亮[09:14]</a></h3>  
+
+	
+
+	</td>
+	<td><a href="show.php?uid=383115" class="bl">离婚少妇</a><div class="f12">2018-12-22</div></td>
+	<td>1</td>
+	<td><a href="read.php?tid=3381157&page=e&fpage=13#a" class="f10"> 2018-12-22 17:47 </a><br />by: 美人吸英雄</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td><a href="htm_data/22/1812/3381142.html" target="_blank">
+
+.::
+
+
+	</a></td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	[亞洲無碼]
+
+	<h3><a href="htm_data/22/1812/3381142.html" target="_blank" id="">【只传|精品】混血小仙女眨眼杀！浓装深黑眼线外带吃JJ吃的满口都是白浆__其余视频进站搜[22:20]</a></h3>  
+
+	
+
+	</td>
+	<td><a href="show.php?uid=348234" class="bl">DBK</a><div class="f12">2018-12-22</div></td>
+	<td>2</td>
+	<td><a href="read.php?tid=3381142&page=e&fpage=13#a" class="f10"> 2018-12-22 18:12 </a><br />by: 美人吸英雄</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td><a href="htm_data/22/1812/3381141.html" target="_blank">
+
+.::
+
+
+	</a></td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	[亞洲無碼]
+
+	<h3><a href="htm_data/22/1812/3381141.html" target="_blank" id="">【只传|精品】终于把班里学习成绩名列前茅的乖乖女给拿下了 这个胸给力 喜欢的不要错过[06:32]</a></h3>  
+
+	
+
+	</td>
+	<td><a href="show.php?uid=348234" class="bl">DBK</a><div class="f12">2018-12-22</div></td>
+	<td>3</td>
+	<td><a href="read.php?tid=3381141&page=e&fpage=13#a" class="f10"> 2018-12-22 20:57 </a><br />by: ss227</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td><a href="htm_data/22/1812/3381117.html" target="_blank">
+
+.::
+
+
+	</a></td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	[亞洲無碼]
+
+	<h3><a href="htm_data/22/1812/3381117.html" target="_blank" id="">各种居家隐秘私生活TP露出大合集蹲在床上操媳妇和在客厅抱着媳妇边走边草[13:57]</a></h3>  
+
+	
+
+	</td>
+	<td><a href="show.php?uid=383115" class="bl">离婚少妇</a><div class="f12">2018-12-22</div></td>
+	<td>0</td>
+	<td><a href="read.php?tid=3381117&page=e&fpage=13#a" class="f10"> 2018-12-22 10:41 </a><br />by: 离婚少妇</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td><a href="htm_data/22/1812/3381097.html" target="_blank">
+
+.::
+
+
+	</a></td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	[亞洲無碼]
+
+	<h3><a href="htm_data/22/1812/3381097.html" target="_blank" id="">【只传|精品】像极了某明星的小美女 露脸与隔壁猛男小哥偷情剧演绎__其余视频进站搜[09:46]</a></h3>  
+
+	
+
+	</td>
+	<td><a href="show.php?uid=348234" class="bl">DBK</a><div class="f12">2018-12-22</div></td>
+	<td>0</td>
+	<td><a href="read.php?tid=3381097&page=e&fpage=13#a" class="f10"> 2018-12-22 10:11 </a><br />by: DBK</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td><a href="htm_data/22/1812/3381096.html" target="_blank">
+
+.::
+
+
+	</a></td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	[亞洲無碼]
+
+	<h3><a href="htm_data/22/1812/3381096.html" target="_blank" id="">【只传|精品】喜欢偷情的肥臀少婦,誘惑扭臀,跳蛋紫薇高潮時大叫來了來了喷了一地&lt;打飞机&gt;[22:14]</a></h3>  
+
+	
+
+	</td>
+	<td><a href="show.php?uid=348234" class="bl">DBK</a><div class="f12">2018-12-22</div></td>
+	<td>1</td>
+	<td><a href="read.php?tid=3381096&page=e&fpage=13#a" class="f10"> 2018-12-22 21:00 </a><br />by: ss227</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td><a href="htm_data/22/1812/3381079.html" target="_blank">
+
+.::
+
+
+	</a></td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	[亞洲無碼]
+
+	<h3><a href="htm_data/22/1812/3381079.html" target="_blank" id="">大闸蟹丝袜双飞翻版“小Angelababy”和翻版“小陈慧琳[20:57]</a></h3>  
+
+	
+
+	</td>
+	<td><a href="show.php?uid=383115" class="bl">离婚少妇</a><div class="f12">2018-12-22</div></td>
+	<td>0</td>
+	<td><a href="read.php?tid=3381079&page=e&fpage=13#a" class="f10"> 2018-12-22 09:39 </a><br />by: 离婚少妇</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td><a href="htm_data/22/1812/3381078.html" target="_blank">
+
+.::
+
+
+	</a></td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	[亞洲無碼]
+
+	<h3><a href="htm_data/22/1812/3381078.html" target="_blank" id="">家庭摄像头破解强开TP蜗居小两口床上啪啪[24:01]</a></h3>  
+
+	
+
+	</td>
+	<td><a href="show.php?uid=383115" class="bl">离婚少妇</a><div class="f12">2018-12-22</div></td>
+	<td>0</td>
+	<td><a href="read.php?tid=3381078&page=e&fpage=13#a" class="f10"> 2018-12-22 09:39 </a><br />by: 离婚少妇</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td><a href="htm_data/22/1812/3381070.html" target="_blank">
+
+.::
+
+
+	</a></td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	[亞洲無碼]
+
+	<h3><a href="htm_data/22/1812/3381070.html" target="_blank" id="">【只传|精品】网红尤物萌白酱VI私拍之粉嫩馒头逼与“干爹大战”淫水溢出__其余视频进站搜[18:21]</a></h3>  
+
+	
+
+	</td>
+	<td><a href="show.php?uid=389631" class="bl">旧时候</a><div class="f12">2018-12-22</div></td>
+	<td>2</td>
+	<td><a href="read.php?tid=3381070&page=e&fpage=13#a" class="f10"> 2018-12-22 12:17 </a><br />by: 彰显华贵</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td><a href="htm_data/22/1812/3381069.html" target="_blank">
+
+.::
+
+
+	</a></td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	[亞洲無碼]
+
+	<h3><a href="htm_data/22/1812/3381069.html" target="_blank" id="">【只传|精品】19岁河南漂亮白嫩的小美女 约2网友玩3P,2人不仅轮流操还一起干,国语淫荡对白[27:36]</a></h3>  
+
+	
+
+	</td>
+	<td><a href="show.php?uid=389631" class="bl">旧时候</a><div class="f12">2018-12-22</div></td>
+	<td>0</td>
+	<td><a href="read.php?tid=3381069&page=e&fpage=13#a" class="f10"> 2018-12-22 09:18 </a><br />by: 旧时候</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td><a href="htm_data/22/1812/3381068.html" target="_blank">
+
+.::
+
+
+	</a></td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	[亞洲無碼]
+
+	<h3><a href="htm_data/22/1812/3381068.html" target="_blank" id="">【每日推荐】:高清版！河南极品眼镜妹子，一边打电话一边啪啪，露脸！中文对白__更多精彩点&quot;进站[15:14]</a></h3>  
+
+	
+
+	</td>
+	<td><a href="show.php?uid=460236" class="bl">紫陌阡尘</a><div class="f12">2018-12-22</div></td>
+	<td>1</td>
+	<td><a href="read.php?tid=3381068&page=e&fpage=13#a" class="f10"> 2018-12-22 12:41 </a><br />by: 彰显华贵</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td><a href="htm_data/22/1812/3381067.html" target="_blank">
+
+.::
+
+
+	</a></td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	[亞洲無碼]
+
+	<h3><a href="htm_data/22/1812/3381067.html" target="_blank" id="">【每日推荐】:国产精品自拍-爆操95年超性感漂亮的淘宝平面嫩模,学生水手服,丝袜内射,完整版[17:16]</a></h3>  
+
+	
+
+	</td>
+	<td><a href="show.php?uid=460236" class="bl">紫陌阡尘</a><div class="f12">2018-12-22</div></td>
+	<td>1</td>
+	<td><a href="read.php?tid=3381067&page=e&fpage=13#a" class="f10"> 2018-12-22 13:07 </a><br />by: 彰显华贵</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td><a href="htm_data/22/1812/3381066.html" target="_blank">
+
+.::
+
+
+	</a></td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	[亞洲無碼]
+
+	<h3><a href="htm_data/22/1812/3381066.html" target="_blank" id="">[热播榜]||精选：G奶影视模特李宓儿《其余作品点进入》性感透视丝袜酒店私拍诱惑 对白刺激[1:18:02]</a></h3>  
+
+	
+
+	</td>
+	<td><a href="show.php?uid=460091" class="bl">Kevinme</a><div class="f12">2018-12-22</div></td>
+	<td>0</td>
+	<td><a href="read.php?tid=3381066&page=e&fpage=13#a" class="f10"> 2018-12-22 09:17 </a><br />by: Kevinme</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td><a href="htm_data/22/1812/3381065.html" target="_blank">
+
+.::
+
+
+	</a></td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	[亞洲無碼]
+
+	<h3><a href="htm_data/22/1812/3381065.html" target="_blank" id="">[热播榜]||精选：紋身美女波多妹結衣大尺度福利直播秀高清錄制[11:00]</a></h3>  
+
+	
+
+	</td>
+	<td><a href="show.php?uid=460091" class="bl">Kevinme</a><div class="f12">2018-12-22</div></td>
+	<td>1</td>
+	<td><a href="read.php?tid=3381065&page=e&fpage=13#a" class="f10"> 2018-12-22 13:36 </a><br />by: 彰显华贵</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td><a href="htm_data/22/1812/3381064.html" target="_blank">
+
+.::
+
+
+	</a></td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	[亞洲無碼]
+
+	<h3><a href="htm_data/22/1812/3381064.html" target="_blank" id="">【17最新||精品】:童顏混血大眼仙女 为了买奢侈品牌包包 穿性感黑絲肛交內射__其余视频进站搜[18:57]</a></h3>  
+
+	
+
+	</td>
+	<td><a href="show.php?uid=389631" class="bl">旧时候</a><div class="f12">2018-12-22</div></td>
+	<td>1</td>
+	<td><a href="read.php?tid=3381064&page=e&fpage=13#a" class="f10"> 2018-12-22 17:41 </a><br />by: 言尽如此</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td><a href="htm_data/22/1812/3381063.html" target="_blank">
+
+.::
+
+
+	</a></td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	[亞洲無碼]
+
+	<h3><a href="htm_data/22/1812/3381063.html" target="_blank" id="">【只传|精品】网红美少女洛美瑶瑶新作之OL制服 高跟丝袜妹纸电动棒插嫩穴__合集第三部[08:29]</a></h3>  
+
+	
+
+	</td>
+	<td><a href="show.php?uid=389631" class="bl">旧时候</a><div class="f12">2018-12-22</div></td>
+	<td>1</td>
+	<td><a href="read.php?tid=3381063&page=e&fpage=13#a" class="f10"> 2018-12-22 13:57 </a><br />by: 彰显华贵</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td><a href="htm_data/22/1812/3381062.html" target="_blank">
+
+.::
+
+
+	</a></td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	[亞洲無碼]
+
+	<h3><a href="htm_data/22/1812/3381062.html" target="_blank" id="">【每日推荐】:长相好似迪丽热巴与高圆圆的清纯美女 掰开蜜穴发骚自拍__更多精彩点&quot;进站[03:10]</a></h3>  
+
+	
+
+	</td>
+	<td><a href="show.php?uid=460236" class="bl">紫陌阡尘</a><div class="f12">2018-12-22</div></td>
+	<td>2</td>
+	<td><a href="read.php?tid=3381062&page=e&fpage=13#a" class="f10"> 2018-12-22 14:23 </a><br />by: 彰显华贵</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td><a href="htm_data/22/1812/3381061.html" target="_blank">
+
+.::
+
+
+	</a></td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	[亞洲無碼]
+
+	<h3><a href="htm_data/22/1812/3381061.html" target="_blank" id="">【每日推荐】:情侣做爱自拍 完美露脸 男的说我在录影 女生反而更兴奋了&lt;撸管推荐&gt;[15:20]</a></h3>  
+
+	
+
+	</td>
+	<td><a href="show.php?uid=460236" class="bl">紫陌阡尘</a><div class="f12">2018-12-22</div></td>
+	<td>0</td>
+	<td><a href="read.php?tid=3381061&page=e&fpage=13#a" class="f10"> 2018-12-22 09:16 </a><br />by: 紫陌阡尘</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td><a href="htm_data/22/1812/3381057.html" target="_blank">
+
+.::
+
+
+	</a></td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	[亞洲無碼]
+
+	<h3><a href="htm_data/22/1812/3381057.html" target="_blank" id="">喪服の奥愛液が溢[58:26]</a></h3>  
+
+	
+
+	</td>
+	<td><a href="show.php?uid=470177" class="bl">Coldwords</a><div class="f12">2018-12-22</div></td>
+	<td>1</td>
+	<td><a href="read.php?tid=3381057&page=e&fpage=13#a" class="f10"> 2018-12-22 14:54 </a><br />by: 彰显华贵</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td><a href="htm_data/22/1812/3381056.html" target="_blank">
+
+.::
+
+
+	</a></td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	[亞洲無碼]
+
+	<h3><a href="htm_data/22/1812/3381056.html" target="_blank" id="">巨乳娘[62:43]</a></h3>  
+
+	
+
+	</td>
+	<td><a href="show.php?uid=470177" class="bl">Coldwords</a><div class="f12">2018-12-22</div></td>
+	<td>1</td>
+	<td><a href="read.php?tid=3381056&page=e&fpage=13#a" class="f10"> 2018-12-22 15:19 </a><br />by: 彰显华贵</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td><a href="htm_data/22/1812/3381054.html" target="_blank">
+
+.::
+
+
+	</a></td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	[亞洲無碼]
+
+	<h3><a href="htm_data/22/1812/3381054.html" target="_blank" id="">撮影七海[41:06]</a></h3>  
+
+	
+
+	</td>
+	<td><a href="show.php?uid=470177" class="bl">Coldwords</a><div class="f12">2018-12-22</div></td>
+	<td>0</td>
+	<td><a href="read.php?tid=3381054&page=e&fpage=13#a" class="f10"> 2018-12-22 09:02 </a><br />by: Coldwords</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td><a href="htm_data/22/1812/3381051.html" target="_blank">
+
+.::
+
+
+	</a></td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	[亞洲無碼]
+
+	<h3><a href="htm_data/22/1812/3381051.html" target="_blank" id="">女友在睡觉悄悄的放下开始偷录-女友不知道一直还草的那么嗨[17:01]</a></h3>  
+
+	
+
+	</td>
+	<td><a href="show.php?uid=470168" class="bl">Corina</a><div class="f12">2018-12-22</div></td>
+	<td>1</td>
+	<td><a href="read.php?tid=3381051&page=e&fpage=13#a" class="f10"> 2018-12-22 15:47 </a><br />by: 彰显华贵</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td><a href="htm_data/22/1812/3381050.html" target="_blank">
+
+.::
+
+
+	</a></td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	[亞洲無碼]
+
+	<h3><a href="htm_data/22/1812/3381050.html" target="_blank" id="">爆乳木瓜大奶妹和男友疯狂草逼九合一 绝对值得一看[31:16]</a></h3>  
+
+	
+
+	</td>
+	<td><a href="show.php?uid=470168" class="bl">Corina</a><div class="f12">2018-12-22</div></td>
+	<td>0</td>
+	<td><a href="read.php?tid=3381050&page=e&fpage=13#a" class="f10"> 2018-12-22 09:01 </a><br />by: Corina</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td><a href="htm_data/22/1812/3381049.html" target="_blank">
+
+.::
+
+
+	</a></td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	[亞洲無碼]
+
+	<h3><a href="htm_data/22/1812/3381049.html" target="_blank" id="">3P少妇这个很厉害吃完双汇吃王中王意外给整射了一个太搞笑了[09:56]</a></h3>  
+
+	
+
+	</td>
+	<td><a href="show.php?uid=470168" class="bl">Corina</a><div class="f12">2018-12-22</div></td>
+	<td>1</td>
+	<td><a href="read.php?tid=3381049&page=e&fpage=13#a" class="f10"> 2018-12-22 16:15 </a><br />by: 彰显华贵</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td><a href="htm_data/22/1812/3381048.html" target="_blank">
+
+.::
+
+
+	</a></td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	[亞洲無碼]
+
+	<h3><a href="htm_data/22/1812/3381048.html" target="_blank" id="">小骚逼身材不错下面也很紧很有感觉[04:13]</a></h3>  
+
+	
+
+	</td>
+	<td><a href="show.php?uid=455659" class="bl">羽仪</a><div class="f12">2018-12-22</div></td>
+	<td>0</td>
+	<td><a href="read.php?tid=3381048&page=e&fpage=13#a" class="f10"> 2018-12-22 09:00 </a><br />by: 羽仪</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td><a href="htm_data/22/1812/3381047.html" target="_blank">
+
+.::
+
+
+	</a></td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	[亞洲無碼]
+
+	<h3><a href="htm_data/22/1812/3381047.html" target="_blank" id="">宾馆约操刚被男友开苞没多久的水嫩性感小美女[07:19]</a></h3>  
+
+	
+
+	</td>
+	<td><a href="show.php?uid=455659" class="bl">羽仪</a><div class="f12">2018-12-22</div></td>
+	<td>0</td>
+	<td><a href="read.php?tid=3381047&page=e&fpage=13#a" class="f10"> 2018-12-22 09:00 </a><br />by: 羽仪</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td><a href="htm_data/22/1812/3381046.html" target="_blank">
+
+.::
+
+
+	</a></td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	[亞洲無碼]
+
+	<h3><a href="htm_data/22/1812/3381046.html" target="_blank" id="">极品尤物小久干练短发女王范十足完美诱人身体展示[13:55]</a></h3>  
+
+	
+
+	</td>
+	<td><a href="show.php?uid=455659" class="bl">羽仪</a><div class="f12">2018-12-22</div></td>
+	<td>0</td>
+	<td><a href="read.php?tid=3381046&page=e&fpage=13#a" class="f10"> 2018-12-22 09:00 </a><br />by: 羽仪</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td><a href="htm_data/22/1812/3381045.html" target="_blank">
+
+.::
+
+
+	</a></td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	[亞洲無碼]
+
+	<h3><a href="htm_data/22/1812/3381045.html" target="_blank" id="">国产剧情演绎私人导游山里导游中被恶男奸强行撩起裙子扒掉内裤席地就开始猛插还大呼救命[13:54]</a></h3>  
+
+	
+
+	</td>
+	<td><a href="show.php?uid=306192" class="bl">991</a><div class="f12">2018-12-22</div></td>
+	<td>0</td>
+	<td><a href="read.php?tid=3381045&page=e&fpage=13#a" class="f10"> 2018-12-22 08:59 </a><br />by: 991</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td><a href="htm_data/22/1812/3381043.html" target="_blank">
+
+.::
+
+
+	</a></td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	[亞洲無碼]
+
+	<h3><a href="htm_data/22/1812/3381043.html" target="_blank" id="">巨乳大眼萌妹子大秀逼逼水很多[03:21]</a></h3>  
+
+	
+
+	</td>
+	<td><a href="show.php?uid=306192" class="bl">991</a><div class="f12">2018-12-22</div></td>
+	<td>0</td>
+	<td><a href="read.php?tid=3381043&page=e&fpage=13#a" class="f10"> 2018-12-22 08:59 </a><br />by: 991</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td><a href="htm_data/22/1812/3381042.html" target="_blank">
+
+.::
+
+
+	</a></td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	[亞洲無碼]
+
+	<h3><a href="htm_data/22/1812/3381042.html" target="_blank" id="">隔壁小姐姐完美身材吊带黑丝超诱惑[04:26]</a></h3>  
+
+	
+
+	</td>
+	<td><a href="show.php?uid=306192" class="bl">991</a><div class="f12">2018-12-22</div></td>
+	<td>0</td>
+	<td><a href="read.php?tid=3381042&page=e&fpage=13#a" class="f10"> 2018-12-22 08:59 </a><br />by: 991</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td><a href="htm_data/22/1812/3380990.html" target="_blank">
+
+.::
+
+
+	</a></td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	[亞洲無碼]
+
+	<h3><a href="htm_data/22/1812/3380990.html" target="_blank" id="">[热播榜]||精选：96年超靓女神妹子丝袜足交啪啪《其余作品点进入》洪水泛滥,对白精彩淫荡[23:23]</a></h3>  
+
+	
+
+	</td>
+	<td><a href="show.php?uid=460091" class="bl">Kevinme</a><div class="f12">2018-12-22</div></td>
+	<td>1</td>
+	<td><a href="read.php?tid=3380990&page=e&fpage=13#a" class="f10"> 2018-12-22 15:38 </a><br />by: 饿坏的大萝卜</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td><a href="htm_data/22/1812/3380905.html" target="_blank">
+
+.::
+
+
+	</a></td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	[亞洲無碼]
+
+	<h3><a href="htm_data/22/1812/3380905.html" target="_blank" id="">[热播榜]||精选：極品艷美女自慰 情趣裝大玩玻璃黃瓜&lt;打飞机推荐&gt;[39:17]</a></h3>  
+
+	
+
+	</td>
+	<td><a href="show.php?uid=460091" class="bl">Kevinme</a><div class="f12">2018-12-22</div></td>
+	<td>1</td>
+	<td><a href="read.php?tid=3380905&page=e&fpage=13#a" class="f10"> 2018-12-22 08:05 </a><br />by: 灵均</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td><a href="htm_data/22/1812/3380902.html" target="_blank">
+
+.::
+
+
+	</a></td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	[亞洲有碼]
+
+	<h3><a href="htm_data/22/1812/3380902.html" target="_blank" id="">中文字幕-MIAE349性感ヒップオイルマッサージ 倉多まお ビクビク痙攣デカ尻コアガズム[124:22]</a></h3>  
+
+	
+
+	</td>
+	<td><a href="show.php?uid=85521" class="bl">dioguitar23</a><div class="f12">2018-12-22</div></td>
+	<td>0</td>
+	<td><a href="read.php?tid=3380902&page=e&fpage=13#a" class="f10"> 2018-12-22 07:19 </a><br />by: dioguitar23</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td><a href="htm_data/22/1812/3380892.html" target="_blank">
+
+.::
+
+
+	</a></td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	[亞洲無碼]
+
+	<h3><a href="htm_data/22/1812/3380892.html" target="_blank" id="">【只传|精品】婴儿肥可爱95后萌妹,娇小身体令人征服欲十足 忍不住掏出来撸__其余视频进站搜[35:28]</a></h3>  
+
+	
+
+	</td>
+	<td><a href="show.php?uid=389631" class="bl">旧时候</a><div class="f12">2018-12-22</div></td>
+	<td>0</td>
+	<td><a href="read.php?tid=3380892&page=e&fpage=13#a" class="f10"> 2018-12-22 07:06 </a><br />by: 旧时候</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td><a href="htm_data/22/1812/3380890.html" target="_blank">
+
+.::
+
+
+	</a></td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	[亞洲無碼]
+
+	<h3><a href="htm_data/22/1812/3380890.html" target="_blank" id="">【只传|精品】香港眼镜摄影师KK哥和导演温泉酒店3P嫩模小齐21080P高清无水印原版[必看][123:29]</a></h3>  
+
+	
+
+	</td>
+	<td><a href="show.php?uid=389631" class="bl">旧时候</a><div class="f12">2018-12-22</div></td>
+	<td>0</td>
+	<td><a href="read.php?tid=3380890&page=e&fpage=13#a" class="f10"> 2018-12-22 07:06 </a><br />by: 旧时候</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td><a href="htm_data/22/1812/3380886.html" target="_blank">
+
+.::
+
+
+	</a></td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	[亞洲無碼]
+
+	<h3><a href="htm_data/22/1812/3380886.html" target="_blank" id="">【每日推荐】:女神级模特酒店穿黑色丝袜搭配齐B小短裙拍摄私照，摄影师没把持住__更多精彩点&quot;进站[17:29]</a></h3>  
+
+	
+
+	</td>
+	<td><a href="show.php?uid=460236" class="bl">紫陌阡尘</a><div class="f12">2018-12-22</div></td>
+	<td>0</td>
+	<td><a href="read.php?tid=3380886&page=e&fpage=13#a" class="f10"> 2018-12-22 07:03 </a><br />by: 紫陌阡尘</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td><a href="htm_data/22/1812/3380885.html" target="_blank">
+
+.::
+
+
+	</a></td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	[亞洲無碼]
+
+	<h3><a href="htm_data/22/1812/3380885.html" target="_blank" id="">【每日推荐】:微信上认识的操浪小少妇 床上大战威猛帅男 各种舔摁在床上抽插[04:42]</a></h3>  
+
+	
+
+	</td>
+	<td><a href="show.php?uid=460236" class="bl">紫陌阡尘</a><div class="f12">2018-12-22</div></td>
+	<td>1</td>
+	<td><a href="read.php?tid=3380885&page=e&fpage=13#a" class="f10"> 2018-12-22 09:51 </a><br />by: 尘缘之客</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td><a href="htm_data/22/1812/3380883.html" target="_blank">
+
+.::
+
+
+	</a></td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	[亞洲無碼]
+
+	<h3><a href="htm_data/22/1812/3380883.html" target="_blank" id="">[热播榜]||精选：女神鹿少女《其余作品点进入》各种语言挑逗美团外卖小哥秒硬[32:57]</a></h3>  
+
+	
+
+	</td>
+	<td><a href="show.php?uid=460091" class="bl">Kevinme</a><div class="f12">2018-12-22</div></td>
+	<td>1</td>
+	<td><a href="read.php?tid=3380883&page=e&fpage=13#a" class="f10"> 2018-12-22 09:52 </a><br />by: 尘缘之客</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td><a href="htm_data/22/1812/3380882.html" target="_blank">
+
+.::
+
+
+	</a></td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	[亞洲無碼]
+
+	<h3><a href="htm_data/22/1812/3380882.html" target="_blank" id="">[热播榜]||精选：网络红人VV姐大清早穿着黑色蕾丝裤袜高跟和炮友乡下田间的丛林野战 高清[23:58]</a></h3>  
+
+	
+
+	</td>
+	<td><a href="show.php?uid=460091" class="bl">Kevinme</a><div class="f12">2018-12-22</div></td>
+	<td>1</td>
+	<td><a href="read.php?tid=3380882&page=e&fpage=13#a" class="f10"> 2018-12-22 09:58 </a><br />by: 流精随约</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td><a href="htm_data/22/1812/3380876.html" target="_blank">
+
+.::
+
+
+	</a></td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	[亞洲無碼]
+
+	<h3><a href="htm_data/22/1812/3380876.html" target="_blank" id="">草到正嗨时，孩子敲门想进来，这可咋整最后颜射完整版[27:43]</a></h3>  
+
+	
+
+	</td>
+	<td><a href="show.php?uid=75213" class="bl">matt69</a><div class="f12">2018-12-22</div></td>
+	<td>0</td>
+	<td><a href="read.php?tid=3380876&page=e&fpage=13#a" class="f10"> 2018-12-22 05:57 </a><br />by: matt69</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td><a href="htm_data/22/1812/3380875.html" target="_blank">
+
+.::
+
+
+	</a></td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	[亞洲無碼]
+
+	<h3><a href="htm_data/22/1812/3380875.html" target="_blank" id="">椅子上操黑丝人妻[11:18]</a></h3>  
+
+	
+
+	</td>
+	<td><a href="show.php?uid=75213" class="bl">matt69</a><div class="f12">2018-12-22</div></td>
+	<td>0</td>
+	<td><a href="read.php?tid=3380875&page=e&fpage=13#a" class="f10"> 2018-12-22 05:54 </a><br />by: matt69</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td><a href="htm_data/22/1812/3380839.html" target="_blank">
+
+.::
+
+
+	</a></td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	[亞洲無碼]
+
+	<h3><a href="htm_data/22/1812/3380839.html" target="_blank" id="">情侣直播啪啪啪大秀先口再插女主播身材不错操起来非常骚[12:53]</a></h3>  
+
+	
+
+	</td>
+	<td><a href="show.php?uid=383115" class="bl">离婚少妇</a><div class="f12">2018-12-22</div></td>
+	<td>0</td>
+	<td><a href="read.php?tid=3380839&page=e&fpage=13#a" class="f10"> 2018-12-22 00:37 </a><br />by: 离婚少妇</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td><a href="htm_data/22/1812/3380838.html" target="_blank">
+
+.::
+
+
+	</a></td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	[亞洲無碼]
+
+	<h3><a href="htm_data/22/1812/3380838.html" target="_blank" id="">鸟站出品国模美心超大尺度浴室4P口交视频流出[09:23]</a></h3>  
+
+	
+
+	</td>
+	<td><a href="show.php?uid=383115" class="bl">离婚少妇</a><div class="f12">2018-12-22</div></td>
+	<td>2</td>
+	<td><a href="read.php?tid=3380838&page=e&fpage=13#a" class="f10"> 2018-12-22 01:44 </a><br />by: 海洛因qaz</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td><a href="htm_data/22/1812/3380836.html" target="_blank">
+
+.::
+
+
+	</a></td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	[亞洲無碼]
+
+	<h3><a href="htm_data/22/1812/3380836.html" target="_blank" id="">【只传|精品】：国产巅峰-小青蛙匠心之作街头搭讪性感女神带回酒店插穴解锁__其余视频进站搜[33:49]</a></h3>  
+
+	
+
+	</td>
+	<td><a href="show.php?uid=448790" class="bl">素书</a><div class="f12">2018-12-22</div></td>
+	<td>2</td>
+	<td><a href="read.php?tid=3380836&page=e&fpage=13#a" class="f10"> 2018-12-22 05:38 </a><br />by: jscszx</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td><a href="htm_data/22/1812/3380835.html" target="_blank">
+
+.::
+
+
+	</a></td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	[亞洲無碼]
+
+	<h3><a href="htm_data/22/1812/3380835.html" target="_blank" id="">【只传|精品】网红萝莉酱-软萌小仙小穴阴帝双刺激 吸精小恶魔喷出大量淫水[必看][14:05]</a></h3>  
+
+	
+
+	</td>
+	<td><a href="show.php?uid=448790" class="bl">素书</a><div class="f12">2018-12-22</div></td>
+	<td>0</td>
+	<td><a href="read.php?tid=3380835&page=e&fpage=13#a" class="f10"> 2018-12-22 00:23 </a><br />by: 素书</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td><a href="htm_data/22/1812/3380832.html" target="_blank">
+
+.::
+
+
+	</a></td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	[亞洲無碼]
+
+	<h3><a href="htm_data/22/1812/3380832.html" target="_blank" id="">呆哥最新系列宾馆双飞姐妹花其中一个来月经了还要强进__完整版点‘进入’[35:41]</a></h3>  
+
+	
+
+	</td>
+	<td><a href="show.php?uid=460087" class="bl">Katharine</a><div class="f12">2018-12-22</div></td>
+	<td>2</td>
+	<td><a href="read.php?tid=3380832&page=e&fpage=13#a" class="f10"> 2018-12-23 16:11 </a><br />by: 南门乱吹雪</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td><a href="htm_data/22/1812/3380831.html" target="_blank">
+
+.::
+
+
+	</a></td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	[亞洲無碼]
+
+	<h3><a href="htm_data/22/1812/3380831.html" target="_blank" id="">康先生高清露脸作品之杭州美院运动服萌妹子无水印完整版&lt;视觉享受&gt;__完整版点‘进入’[1:07:55]</a></h3>  
+
+	
+
+	</td>
+	<td><a href="show.php?uid=460087" class="bl">Katharine</a><div class="f12">2018-12-22</div></td>
+	<td>0</td>
+	<td><a href="read.php?tid=3380831&page=e&fpage=13#a" class="f10"> 2018-12-22 00:20 </a><br />by: Katharine</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td><a href="htm_data/22/1812/3380829.html" target="_blank">
+
+.::
+
+
+	</a></td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	[亞洲無碼]
+
+	<h3><a href="htm_data/22/1812/3380829.html" target="_blank" id="">【每日推荐】:小刘找了个高颜值性感女主虐待自己玩乱伦 全程普通话对白__更多精彩点&quot;进入[16:56]</a></h3>  
+
+	
+
+	</td>
+	<td><a href="show.php?uid=461183" class="bl">浅末</a><div class="f12">2018-12-22</div></td>
+	<td>1</td>
+	<td><a href="read.php?tid=3380829&page=e&fpage=13#a" class="f10"> 2018-12-22 00:56 </a><br />by: 葫芦娃六娃</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td><a href="htm_data/22/1812/3380828.html" target="_blank">
+
+.::
+
+
+	</a></td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	[亞洲無碼]
+
+	<h3><a href="htm_data/22/1812/3380828.html" target="_blank" id="">【每日推荐】:大干98年G奶小妹妹,身材绝对极品太爽了，草的大奶直摇大声浪叫 对白精彩[10:08]</a></h3>  
+
+	
+
+	</td>
+	<td><a href="show.php?uid=461183" class="bl">浅末</a><div class="f12">2018-12-22</div></td>
+	<td>2</td>
+	<td><a href="read.php?tid=3380828&page=e&fpage=13#a" class="f10"> 2018-12-22 07:06 </a><br />by: 黔酒香独醉</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td><a href="htm_data/22/1812/3380818.html" target="_blank">
+
+.::
+
+
+	</a></td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	[亞洲無碼]
+
+	<h3><a href="htm_data/22/1812/3380818.html" target="_blank" id="">风吟鸟唱精品大作平面模特女神范范__完整版点‘进入’[00:36]</a></h3>  
+
+	
+
+	</td>
+	<td><a href="show.php?uid=460087" class="bl">Katharine</a><div class="f12">2018-12-22</div></td>
+	<td>0</td>
+	<td><a href="read.php?tid=3380818&page=e&fpage=13#a" class="f10"> 2018-12-22 00:12 </a><br />by: Katharine</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td><a href="htm_data/22/1812/3380817.html" target="_blank">
+
+.::
+
+
+	</a></td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	[亞洲無碼]
+
+	<h3><a href="htm_data/22/1812/3380817.html" target="_blank" id="">91大神佛爷最新作品-苗族气质女神少妇第一部 -高清 对白精彩__完整版点‘进入’[32:00]</a></h3>  
+
+	
+
+	</td>
+	<td><a href="show.php?uid=460087" class="bl">Katharine</a><div class="f12">2018-12-22</div></td>
+	<td>1</td>
+	<td><a href="read.php?tid=3380817&page=e&fpage=13#a" class="f10"> 2018-12-22 09:04 </a><br />by: wmzw03</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td><a href="htm_data/22/1812/3380811.html" target="_blank">
+
+.::
+
+
+	</a></td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	[亞洲無碼]
+
+	<h3><a href="htm_data/22/1812/3380811.html" target="_blank" id="">【每日推荐】:漂亮美女性愛視頻流出金毛男友操得好賣力扮演强攻 精彩对白__更多精彩点&quot;进入[06:17]</a></h3>  
+
+	
+
+	</td>
+	<td><a href="show.php?uid=461183" class="bl">浅末</a><div class="f12">2018-12-22</div></td>
+	<td>0</td>
+	<td><a href="read.php?tid=3380811&page=e&fpage=13#a" class="f10"> 2018-12-22 00:10 </a><br />by: 浅末</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td><a href="htm_data/22/1812/3380809.html" target="_blank">
+
+.::
+
+
+	</a></td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	[亞洲無碼]
+
+	<h3><a href="htm_data/22/1812/3380809.html" target="_blank" id="">【每日推荐】:大二老师露脸，69式被我爆操内射啪啪啪，淫语对白&lt;打飞机推荐视频&gt;[17:14]</a></h3>  
+
+	
+
+	</td>
+	<td><a href="show.php?uid=461183" class="bl">浅末</a><div class="f12">2018-12-22</div></td>
+	<td>2</td>
+	<td><a href="read.php?tid=3380809&page=e&fpage=13#a" class="f10"> 2018-12-22 09:53 </a><br />by: 尘缘之客</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td><a href="htm_data/22/1812/3380806.html" target="_blank">
+
+.::
+
+
+	</a></td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	[亞洲有碼]
+
+	<h3><a href="htm_data/22/1812/3380806.html" target="_blank" id="">[绅士1080P在线高清]巨乳紧身衣老师放学后被痞子学生揉拧 黑丝上射满精液和淫水[28:21]</a></h3>  
+
+	
+
+	</td>
+	<td><a href="show.php?uid=457535" class="bl">子黛</a><div class="f12">2018-12-22</div></td>
+	<td>0</td>
+	<td><a href="read.php?tid=3380806&page=e&fpage=13#a" class="f10"> 2018-12-22 00:08 </a><br />by: 子黛</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td><a href="htm_data/22/1812/3380805.html" target="_blank">
+
+.::
+
+
+	</a></td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	[亞洲無碼]
+
+	<h3><a href="htm_data/22/1812/3380805.html" target="_blank" id="">[绅士1080P在线高清]学生妹画展上遭遇咸猪手 竟主动迎合 整个内裤都被淫水打湿[25:54]</a></h3>  
+
+	
+
+	</td>
+	<td><a href="show.php?uid=457535" class="bl">子黛</a><div class="f12">2018-12-22</div></td>
+	<td>0</td>
+	<td><a href="read.php?tid=3380805&page=e&fpage=13#a" class="f10"> 2018-12-22 00:07 </a><br />by: 子黛</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td><a href="htm_data/22/1812/3380803.html" target="_blank">
+
+.::
+
+
+	</a></td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	[亞洲無碼]
+
+	<h3><a href="htm_data/22/1812/3380803.html" target="_blank" id="">【精品分享】调教爆艹内射极品素人熟女人妻[10:40]</a></h3>  
+
+	
+
+	</td>
+	<td><a href="show.php?uid=465928" class="bl">素颜浅笑</a><div class="f12">2018-12-22</div></td>
+	<td>1</td>
+	<td><a href="read.php?tid=3380803&page=e&fpage=13#a" class="f10"> 2018-12-22 05:55 </a><br />by: 寂寞空庭春欲</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td><a href="htm_data/22/1812/3380802.html" target="_blank">
+
+.::
+
+
+	</a></td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	[亞洲無碼]
+
+	<h3><a href="htm_data/22/1812/3380802.html" target="_blank" id="">【精品分享】秒射大一学妹[11:00]</a></h3>  
+
+	
+
+	</td>
+	<td><a href="show.php?uid=465928" class="bl">素颜浅笑</a><div class="f12">2018-12-22</div></td>
+	<td>3</td>
+	<td><a href="read.php?tid=3380802&page=e&fpage=13#a" class="f10"> 2018-12-22 20:22 </a><br />by: 173cl</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td><a href="htm_data/22/1812/3380801.html" target="_blank">
+
+.::
+
+
+	</a></td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	[亞洲無碼]
+
+	<h3><a href="htm_data/22/1812/3380801.html" target="_blank" id="">【精品分享】跳蛋玩骚逼[15:44]</a></h3>  
+
+	
+
+	</td>
+	<td><a href="show.php?uid=470186" class="bl">Aeljinh</a><div class="f12">2018-12-22</div></td>
+	<td>0</td>
+	<td><a href="read.php?tid=3380801&page=e&fpage=13#a" class="f10"> 2018-12-22 00:05 </a><br />by: Aeljinh</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td><a href="htm_data/22/1812/3380800.html" target="_blank">
+
+.::
+
+
+	</a></td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	[亞洲無碼]
+
+	<h3><a href="htm_data/22/1812/3380800.html" target="_blank" id="">【精品分享】老婆穿情趣套装为我服务,黑丝长腿非常的舒服极品身材哦[11:58]</a></h3>  
+
+	
+
+	</td>
+	<td><a href="show.php?uid=470186" class="bl">Aeljinh</a><div class="f12">2018-12-22</div></td>
+	<td>0</td>
+	<td><a href="read.php?tid=3380800&page=e&fpage=13#a" class="f10"> 2018-12-22 00:05 </a><br />by: Aeljinh</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td><a href="htm_data/22/1812/3380799.html" target="_blank">
+
+.::
+
+
+	</a></td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	[亞洲無碼]
+
+	<h3><a href="htm_data/22/1812/3380799.html" target="_blank" id="">【精品分享】淫荡的黑丝少妇[24:16]</a></h3>  
+
+	
+
+	</td>
+	<td><a href="show.php?uid=470165" class="bl">Goddard</a><div class="f12">2018-12-22</div></td>
+	<td>1</td>
+	<td><a href="read.php?tid=3380799&page=e&fpage=13#a" class="f10"> 2018-12-22 01:31 </a><br />by: vidicr</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td><a href="htm_data/22/1812/3380797.html" target="_blank">
+
+.::
+
+
+	</a></td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	[亞洲無碼]
+
+	<h3><a href="htm_data/22/1812/3380797.html" target="_blank" id="">【精品分享】爆艹极品紫罗兰美女少妇下部[11:24]</a></h3>  
+
+	
+
+	</td>
+	<td><a href="show.php?uid=470165" class="bl">Goddard</a><div class="f12">2018-12-22</div></td>
+	<td>0</td>
+	<td><a href="read.php?tid=3380797&page=e&fpage=13#a" class="f10"> 2018-12-22 00:04 </a><br />by: Goddard</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td><a href="htm_data/22/1812/3380796.html" target="_blank">
+
+.::
+
+
+	</a></td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	[亞洲無碼]
+
+	<h3><a href="htm_data/22/1812/3380796.html" target="_blank" id="">【精品分享】爆艹极品紫罗兰美女少妇中部[10:10]</a></h3>  
+
+	
+
+	</td>
+	<td><a href="show.php?uid=440174" class="bl">星空联盟</a><div class="f12">2018-12-22</div></td>
+	<td>1</td>
+	<td><a href="read.php?tid=3380796&page=e&fpage=13#a" class="f10"> 2018-12-22 01:41 </a><br />by: cheng5214</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td><a href="htm_data/22/1812/3380795.html" target="_blank">
+
+.::
+
+
+	</a></td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	[亞洲無碼]
+
+	<h3><a href="htm_data/22/1812/3380795.html" target="_blank" id="">【精品分享】制服诱惑完整版[19:01]</a></h3>  
+
+	
+
+	</td>
+	<td><a href="show.php?uid=440174" class="bl">星空联盟</a><div class="f12">2018-12-22</div></td>
+	<td>0</td>
+	<td><a href="read.php?tid=3380795&page=e&fpage=13#a" class="f10"> 2018-12-22 00:03 </a><br />by: 星空联盟</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td><a href="htm_data/22/1812/3380794.html" target="_blank">
+
+.::
+
+
+	</a></td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	[亞洲無碼]
+
+	<h3><a href="htm_data/22/1812/3380794.html" target="_blank" id="">【精品分享】和隔壁的胖少妇激情爆艹一夜[12:38]</a></h3>  
+
+	
+
+	</td>
+	<td><a href="show.php?uid=458976" class="bl">中原小野狼</a><div class="f12">2018-12-22</div></td>
+	<td>0</td>
+	<td><a href="read.php?tid=3380794&page=e&fpage=13#a" class="f10"> 2018-12-22 00:03 </a><br />by: 中原小野狼</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td><a href="htm_data/22/1812/3380793.html" target="_blank">
+
+.::
+
+
+	</a></td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	[亞洲無碼]
+
+	<h3><a href="htm_data/22/1812/3380793.html" target="_blank" id="">【精品分享】爆操肉丝少妇[12:17]</a></h3>  
+
+	
+
+	</td>
+	<td><a href="show.php?uid=458976" class="bl">中原小野狼</a><div class="f12">2018-12-22</div></td>
+	<td>0</td>
+	<td><a href="read.php?tid=3380793&page=e&fpage=13#a" class="f10"> 2018-12-22 00:03 </a><br />by: 中原小野狼</td>
+	</tr>
+
+	<tr class="tr3 t_one tac">
+	<td><a href="htm_data/22/1812/3380791.html" target="_blank">
+
+.::
+
+
+	</a></td>
+	<td class="tal" style="padding-left:8px" id=""> 
+
+	
+
+	[亞洲無碼]
+
+	<h3><a href="htm_data/22/1812/3380791.html" target="_blank" id="">【精品分享】媳妇被调教的越来越骚了[14:17]</a></h3>  
+
+	
+
+	</td>
+	<td><a href="show.php?uid=425200" class="bl">jlgdzhao</a><div class="f12">2018-12-22</div></td>
+	<td>0</td>
+	<td><a href="read.php?tid=3380791&page=e&fpage=13#a" class="f10"> 2018-12-22 00:01 </a><br />by: jlgdzhao</td>
+	</tr>
+
+
+	<tr><td style="height:8px"></td>
+	</tr></tbody>
+</table></div>
+
+<table cellspacing="0" cellpadding="0" width="100%" align="center">
+	<tr><td align="left"><div class="pages"><a href="thread0806.php?fid=22&search=&page=1">＜</a><a href="thread0806.php?fid=22&search=&page=12">上一頁</a><a href="thread0806.php?fid=22&search=&page=10">10</a><a href="thread0806.php?fid=22&search=&page=11">11</a><a href="thread0806.php?fid=22&search=&page=12">12</a><a><U>13</U></a><a href="thread0806.php?fid=22&search=&page=14">14</a><a href="thread0806.php?fid=22&search=&page=15">15</a><a href="thread0806.php?fid=22&search=&page=16">16</a><a class='w70'><input type="text" style="width:50px;" value="13/396" onfocus="this.value='';" onblur="this.value='13/396'" onkeydown="javascript: if(event.keyCode==13){ location='thread0806.php?fid=22&search=&page='+this.value;return false;}"></a><a href="thread0806.php?fid=22&search=&page=14">下一頁</a><a href="thread0806.php?fid=22&search=&page=396" id="last">＞</a></div></td>
+	<form name="jump" method="post">
+		<td align="right"><a href="profile.php?action=forumright&fid=22" title="查看您在本版塊的權限">版塊權限查看</a>&nbsp;
+		<select onchange="window.location='thread0806.php?fid='+this.options[this.selectedIndex].value"><option value="" selected>快速跳至</option><option value='1'>>> BT電影下載</option><option value='2'> &nbsp;&nbsp; |- 亞洲無碼原創區</option><option value='15'> &nbsp;&nbsp; |- 亞洲有碼原創區</option><option value='4'> &nbsp;&nbsp; |- 歐美原創區</option><option value='5'> &nbsp;&nbsp; |- 動漫原創區</option><option value='25'> &nbsp;&nbsp; |- 國產原創區</option><option value='26'> &nbsp;&nbsp; |- 中字原創區</option><option value='27'> &nbsp;&nbsp; |- 轉帖交流區</option><option value='21'> &nbsp;&nbsp; |- HTTP下載區</option><option value='22'> &nbsp;&nbsp; |- 在綫成人影院</option><option value='10'> &nbsp;&nbsp; |- 草榴影視庫</option><option value='11'> &nbsp;&nbsp;&nbsp;&nbsp; |- 亞洲區</option><option value='12'> &nbsp;&nbsp;&nbsp;&nbsp; |- 歐美區</option><option value='13'> &nbsp;&nbsp;&nbsp;&nbsp; |- 動漫區</option><option value='14'> &nbsp;&nbsp;&nbsp;&nbsp; |- 圖片區</option><option value='23'> &nbsp;&nbsp;&nbsp;&nbsp; |- 博彩區</option><option value='6'>>> 草榴休閑區</option><option value='7'> &nbsp;&nbsp; |- 技術討論區</option><option value='8'> &nbsp;&nbsp; |- 新時代的我們</option><option value='16'> &nbsp;&nbsp; |- 達蓋爾的旗幟</option><option value='20'> &nbsp;&nbsp; |- 成人文學交流區</option><option value='9'> &nbsp;&nbsp; |- 草榴資訊</option>		
+		</select></td>
+	</form>
+	</tr>
+	<tr valign="top">
+		<form action="thread0806.php" method="get">
+		<td style="vertical-align:middle;">
+		<input type="hidden" name="fid" value="22"/>
+		<select name="search">
+			<option value="">所有主題</option>
+			<option value="digest">本版精華區</option>
+			<option value="1">1天內的主題</option>
+			<option value="2">2天內的主題</option>
+			<option value="7">1星期內的主題</option>
+			<option value="30">1個月內的主題</option>
+			<option value="60">2個月內的主題</option>
+			<option value="90">3個月內的主題</option>
+			<option value="180">6個月內的主題</option>
+			<option value="365">1年內的主題</option>
+		</select>
+
+		<input class="btn" type="button" value="提 交" onclick="this.form.submit();">
+		</td>
+	</form>
+	</tr>
+</table>
+
+<div style='margin:0px 15px;'></div>
+</div>
+<center class="gray">
+<a href='mobile.php?ismobile=no'>電腦版</a> <a href='mobile.php?ismobile=yes'>手機版</a> <a href='read.php?tid=1648542'>客戶端</a><br>
+用時 0.04(s) x1, 12-26 18:07  <br>
+
+
+<div style='margin-left:-9999px;'><script src='//s103.cnzz.com/stat.php?id=950900&web_id=950900&online=1&show=line' language='JavaScript' charset='gb2312'></script></div>
+
+
+</center><br />
+</body>
