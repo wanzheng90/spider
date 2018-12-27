@@ -24,12 +24,16 @@ function reExtName() {
     die;
 }
 
-
-reExtName();
-
+function logWrite($msg) {
+    $time = date('Y-m-d H:i:s');
+    echo $time . " $msg \n";
+}
 
 $baseUrl = 'https://hh.flexui.win/thread0806.php?fid=22';
 $pagePath = './crawFiles/';
+$tmplPath = './vendor/tmpl/';
+$runTime = time();
+$tplFile = file_get_contents($tmplPath . 'view.tpl');
 $spider = new Spider();
 $spider->setUnCheckSsl()
     ->setReturnStream()
@@ -44,20 +48,22 @@ $spider->setUnCheckSsl()
         'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.67 Safari/537.36',
     ]);
 
-for ($i = 99, $cnt = 100; $i <= $cnt; $i ++) {
-    if (is_file($pagePath. 'dict/'. $i)) { // 解析过的跳过
-        continue;
+for ($i = 1, $cnt = 2; $i <= $cnt; $i ++) {
+    $currDictFile = $pagePath. 'dict/'. $i. '.html';
+    $currDictFileCreateTime = filectime($currDictFile);
+    if (is_file($currDictFile) && $runTime-$currDictFileCreateTime < 86400) { // continue dict files which createTime less then one day
+        #logWrite("the ". $i . " page has parsed");
+        #continue;
     }
     $url = $baseUrl . '&page='. $i;
-    #echo $url . "\n";
     $htmlPath = '';
-    if (!is_file($pagePath . $i . '/F')) {
+    if (!is_file($pagePath . $i . '/F') || $runTime-filectime($pagePath . $i . '/F') > 86400) { // reCraw sourceFiles which catchTime more then one day
+        logWrite('begin catching the '. $i . ' page');
         $html = $spider->post($url);
         preg_match("/<body>(.*?)<\/body>/s", $html, $m);
         if (!is_dir($pagePath . $i)) {
             mkdir($pagePath. $i, 0777);
         }
-
         file_put_contents($pagePath . $i . '/F', $m[0]);
     }
     $htmlPath = $pagePath . $i . '/F';
@@ -65,6 +71,7 @@ for ($i = 99, $cnt = 100; $i <= $cnt; $i ++) {
     $data = [];
     $crawler = new Crawler($htmlStr);
     try {
+        logWrite('begin parse the '. $i . ' page');
         $contentTable = $crawler->filterXPath('//div[@class="t"][2]/table');
         $tdDom = $contentTable->filterXPath('//tr[contains(@class,"tr3 t_one tac")]/td')->each(function (Crawler $node, $i) use ($baseUrl, &$data) {
             if ($node->attr('class')) {
@@ -81,16 +88,17 @@ for ($i = 99, $cnt = 100; $i <= $cnt; $i ++) {
                 ];
             }
         });
+        $totalItem = count($data);
+        logWrite('parse the '. $i . ' page success count '. $totalItem. ' item');
         // then craw next page
         if (!empty($data)) {
             $htmlPath = $htmlStr = '';
             $crawler = null;
             $dictStr = '';
-            $dictStr = '<!DOCTYPE html><head><meta charset="UTF-8"><title>dict list</title></head>';
-            $dictStr .= '<div class="content">';
             foreach ($data as $key => $row) {
                 $itemIndex = $key + 1;
-                if (!is_file($pagePath . $i . '/S'. $itemIndex)) {
+                #$itemIndex = 84; // debug
+                if (!is_file($pagePath . $i . '/S'. $itemIndex) || $runTime-filectime($pagePath . $i . '/S'. $itemIndex) > 86400) {
                     $html = $spider->post($row['href']);
                     preg_match("/<body>(.*?)<\/body>/s", $html, $m);
                     file_put_contents($pagePath . $i .'/S'. $itemIndex, $m[0]);
@@ -100,17 +108,23 @@ for ($i = 99, $cnt = 100; $i <= $cnt; $i ++) {
                 $data = [];
                 $crawler = new Crawler($htmlStr);
                 $sourceTitle = $crawler->filterXPath('//h4')->text();
+                $sourceLink = 'src=http://www.baidu.com';
                 $sourceLink = $crawler->filterXPath('//div[contains(@class,"tpc_content")]/a[2]')->attr('onclick');
                 $sourceLink = explode('src=', $sourceLink);
                 $sourceLink = trim($sourceLink[1], '\'');
-                $dictStr .= '<a href="'. $sourceLink .'">' . $sourceTitle . '</a><br>';
+                $dictStr .= '<tr>';
+                $dictStr .= '<td class="td-id"><span class="num">'. $itemIndex. '</span></td>';
+                $dictStr .= '<td class="td-title"><a href="'. $sourceLink. '" target="_bank">'.$sourceTitle.'</a></td>';
+                $dictStr .= '</tr>';
             }
-            file_put_contents($pagePath. 'dict/'. $i, $dictStr, FILE_APPEND);
+            $dictStr = preg_replace('/\<\{CONTENT\}\>/s', $dictStr, $tplFile);
+            file_put_contents($pagePath. 'dict/'. $i. '.html', $dictStr, FILE_APPEND);
+            logWrite('save the '. $i . ' dict success');
         }
     } catch (\Exception $e) {
-
+        logWrite('catch Exception '. $e->getMessage());
     }
-    echo "sleep three seconds please wait...\n";
+    logWrite("sleep three seconds please wait...");
     sleep(3);
 }
 

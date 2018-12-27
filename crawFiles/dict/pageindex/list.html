@@ -1,0 +1,52 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <link rel="stylesheet" href="./myPagination.css">
+        <script src="myPagination.js"></script>
+        <meta charset="UTF-8">
+        <title>Dict List</title>
+    </head>
+    <body>
+        <div id="pagination" class="pagination">
+            <ul>
+                <li>首页</li>
+                <li class="disabled">&lt;</li>
+                <li class="active">1</li>
+                <li>2</li>
+                <li>3</li>
+                <li>4</li>
+                <li>5</li>
+                <li>&gt;</li>
+                <li>尾页</li>
+              <!--  <li class="totalPage">
+                    <span>跳转到</span>
+                    <input type="number">
+                    <span>页</span>
+                </li>
+                <li class="totalPage">共&nbsp;50&nbsp;页</li>
+                <li class="totalPage">每页&nbsp;10&nbsp;条</li>
+                <li class="totalPage">合计&nbsp;500&nbsp;条数据</li>-->
+            </ul>
+        </div>
+    </body>
+</html>
+
+<script>
+    window.onload = function () {
+        new myPagination({
+            id: 'pagination',
+            curPage:1, //初始页码
+            pageTotal: 100, //总页数
+            pageAmount: 10,  //每页多少条
+            dataTotal: 50000, //总共多少条数据
+            pageSize: 5, //可选,分页个数
+//            showPageTotalFlag:true, //是否显示数据统计
+//            showSkipInputFlag:true, //是否支持跳转
+            getPage: function (page) {
+                //获取当前页数
+                var pageHtml = '../' + page + '.html';
+                window.open(pageHtml, "about:blank");
+            }
+        })
+    }
+</script>
